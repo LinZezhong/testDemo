@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="title_activity_org_info">OrgInfoActivity</string>
+    <string name="title_activity_check">CheckActivity</string>
+    <string name="title_activity_check_apply">CheckApplyActivity</string>
+    <string name="title_activity_apply_info">ApplyInfoActivity</string>
+    <string name="title_activity_my_apply">MyApplyActivity</string>
+    <string name="title_activity_apply_result">ApplyResultActivity</string>
+
+</resources>

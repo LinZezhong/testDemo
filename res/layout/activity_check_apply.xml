@@ -1,0 +1,26 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+<LinearLayout 
+    android:id="@+id/check_Apply"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="@color/CadetBlue2"
+        android:layout_margin="0px">
+
+        <TextView
+            android:id="@+id/tv_Depart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="社团审核"
+            android:textSize="22dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
